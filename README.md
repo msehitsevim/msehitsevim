@@ -13,7 +13,8 @@ Modern, ölçeklenebilir ve temiz kod prensiplerine (Clean Code/Architecture) da
 * **Haberleşme & Altyapı:** MQTT (IoT & Real-time), Docker (Containerization), Nginx, Redis.
 * **Mobil & Oyun:** Flutter, Godot Engine (C#).
 * **Veri:** ML.NET (Log analizi ve yerel model çıkarımı).
-
+### 📊 GitHub İstatistiklerim
+![Muhammed'in En Çok Kullandılan Diller Grafiği](https://github-readme-stats.vercel.app/api/top-langs/?username=msehitsevim&layout=compact&theme=radical&hide_border=true)
 ---
 
 ### 🚀 Öne Çıkan Projelerim
