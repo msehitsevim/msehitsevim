@@ -8,13 +8,22 @@ Modern, ölçeklenebilir ve temiz kod prensiplerine (Clean Code/Architecture) da
 
 ### 🛠 Teknik Yetkinliklerim
 
-* **Backend & Mimari:** .NET Core, Microservices, Event-Driven Architecture.
-* **Tasarım Desenleri:** SOLID Prensipleri, Repository Pattern, CQRS, Dependency Injection, Observer Pattern.
-* **Haberleşme & Altyapı:** MQTT (IoT & Real-time), Docker (Containerization), Nginx, Redis.
-* **Mobil & Oyun:** Flutter, Godot Engine (C#).
-* **Veri:** ML.NET (Log analizi ve yerel model çıkarımı).
-### 📊 GitHub İstatistiklerim
-![Muhammed'in En Çok Kullandılan Diller Grafiği](https://github-readme-stats.vercel.app/api/top-langs/?username=msehitsevim&layout=compact&theme=radical&hide_border=true)
+### 🛠 Yetkinlik Setim
+
+**Backend & Mimari**
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00ADD8?style=for-the-badge&logo=microservices&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-E62B1E?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**Haberleşme & Altyapı**
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Oyun & Mobil**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ---
 
 ### 🚀 Öne Çıkan Projelerim
