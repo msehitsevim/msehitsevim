@@ -43,5 +43,5 @@ Modern, ölçeklenebilir ve temiz kod prensiplerine (Clean Code/Architecture) da
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=msehitsevim&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+### 📊 İstatistiklerim
+![İstatistiklerim](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msehitsevim&theme=radical)
