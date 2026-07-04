@@ -42,6 +42,3 @@ Modern, ölçeklenebilir ve temiz kod prensiplerine (Clean Code/Architecture) da
 * **E-posta:** sehitsevim@gmail.com
 
 ---
-
-### 📊 İstatistiklerim
-![İstatistiklerim](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msehitsevim&theme=radical)
